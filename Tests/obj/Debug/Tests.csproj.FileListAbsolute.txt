@@ -1,0 +1,15 @@
+D:\projects\PokerHandShowdown\Tests\bin\Debug\Tests.dll
+D:\projects\PokerHandShowdown\Tests\bin\Debug\Tests.pdb
+D:\projects\PokerHandShowdown\Tests\bin\Debug\PokerHandShowdown.dll
+D:\projects\PokerHandShowdown\Tests\bin\Debug\PokerHandShowdown.pdb
+D:\projects\PokerHandShowdown\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\projects\PokerHandShowdown\Tests\obj\Debug\Tests.dll
+D:\projects\PokerHandShowdown\Tests\obj\Debug\Tests.pdb
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\obj\Debug\Tests.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\obj\Debug\Tests.pdb
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\bin\Debug\Tests.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\bin\Debug\Tests.pdb
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\bin\Debug\PokerHandShowdown.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\Tests\bin\Debug\PokerHandShowdown.pdb

@@ -1,0 +1,10 @@
+D:\projects\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.dll
+D:\projects\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.pdb
+D:\projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.csprojResolveAssemblyReference.cache
+D:\projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.dll
+D:\projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.pdb
+D:\Work\Exams\iQmetrix\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.pdb
+D:\Work\Exams\iQmetrix\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.csprojResolveAssemblyReference.cache
+D:\Work\Exams\iQmetrix\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.dll
+D:\Work\Exams\iQmetrix\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.pdb
