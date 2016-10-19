@@ -1,1 +1,18 @@
-TestResults/
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
